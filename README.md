@@ -1,6 +1,6 @@
 # 🍌 BNANA 🍍
 
-Welcome to **Gorilla Adventure**, a thrilling 2D platformer game where you step into the shoes of a brave player on a mission to collect as many bananas and pineapples as possible. But beware! If you die, you lose all your collected fruits. Can you conquer all three levels and prove yourself?
+Welcome to **BNANA**, a 2D platformer game where you step into the shoes of a brave player on a mission to collect as many bananas and pineapples as possible. But beware! If you die, you lose all your collected fruits. Can you conquer all three levels and prove yourself?
 
 ## 🎮 Game Description
 
@@ -20,10 +20,10 @@ Master these simple controls to navigate through the levels and collect all the 
 
 ## 🛠️ Development
 
-This game was developed using Unity. The development process was guided by the excellent tutorial series provided by [CodingInFlow](https://www.youtube.com/c/CodingInFlow). Thanks to their tutorials, the creation of **BNANA** was both educational and enjoyable.
+This game was developed using Unity. The development process was guided by the excellent tutorial series provided by [CodingInFlow](https://www.youtube.com/c/CodingInFlow). Thanks to their tutorials, the creation of **BNANA** was a great learning experience and really fun to make.
 
 ## 🚀 How to Play
 
 1. **Clone the repository**: 
    ```bash
-   git clone https://github.com/your-username/BNANA.git
+   git clone https://github.com/lucasmgraham2/BNANA.git
