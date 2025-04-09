@@ -1,0 +1,4 @@
+repository "BNANA@diprodstick@cloud"
+  path "/"
+    br "/main"
+    co "/main"
